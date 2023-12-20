@@ -13,10 +13,10 @@ import os
 import errno
 import LogParsers.BasicParser
 
-server = "irc.freenode.net"
+server = "irc.libera.chat"
 port = 6697
-channel = ""
-botnick = ""
+channel = "###tokipona"
+botnick = "logbot"
 logdir = "logs"
 password = ""
 
